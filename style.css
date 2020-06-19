@@ -1,0 +1,39 @@
+body {
+    margin-top: 110px;
+    margin-bottom: 80px;
+    background-color: #eeeeee;
+}
+
+header {
+    height: 200px;
+    width: 100%;
+    display: block;
+}
+h2{
+    font-size: 64px;
+    text-align: center;
+    text-decoration: underline;
+}
+h4{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+button{
+    margin-bottom: 30px;
+    border: solid 0.5px gray;
+    font-size: 18px;
+    color: navy;
+    font-family: 'Bentham', serif;
+}
+
+.redButton {
+    color: red;
+}
+
+.blueButton {
+    color: blue;
+}
+
+#content{
+   margin-left: 17%;
+}
